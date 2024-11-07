@@ -24,7 +24,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
  
 ## Program
-
+```
 DEVELOPED BY : J JAYASURIYA
 REGISTER NO: 212223230088
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
@@ -51,7 +51,7 @@ if (lam <  mu):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("---------------------------------------------------------------")
-
+```
 ## Output :
 
 ![image](https://github.com/user-attachments/assets/eaff4803-99fc-4a00-b822-f710364bfb12)
